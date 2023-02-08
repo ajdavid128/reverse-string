@@ -17,3 +17,8 @@ module.exports = reverseString;
 
 // Please add your pseudocode to this file
 // And a written explanation of your solution
+
+// declare function that receives argument of a string
+// iterate through the sting
+// return reveresed version of string
+// 
